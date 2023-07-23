@@ -8,7 +8,7 @@
 
 # Hello Weather
 
-A simple weather App created using [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/) and using API from [OpenWeatherMap](https://openweathermap.org/)
+Weather App created using Dart and Flutter
 
 ## Features
 - Automatically acquire user current location
